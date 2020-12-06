@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
 body{
     padding: 5% 20%;
      background-image: url('images/groot.jpg') ;    
@@ -7,6 +7,7 @@ body{
      margin:0%;
      color:white;
      background-color: transparent;
+     font-family: 'Major Mono Display', monospace;
     
     
 }
@@ -21,6 +22,7 @@ textarea{
     margin:auto;
     background-color: transparent;
     color:white;
+    font-family: 'Major Mono Display', monospace;
 }
 .container #btn-translate{
     padding:1rem 1rem;
@@ -28,12 +30,13 @@ textarea{
     border: 1px solid white;
     color:white;
     background-color: transparent;
-   
+    font-family: 'Major Mono Display', monospace;
 }
 .container .output{
     height:40%;
     width:50%;
     padding:2rem 2rem; 
     border:2px solid white;
+    font-family: 'Major Mono Display', monospace;
 
 }

@@ -1,0 +1,28 @@
+
+body{
+    padding: 5% 20%;
+
+}
+.container{
+    padding: 1% 0%;
+}
+textarea{
+    height:40%;
+    width:50%;
+    padding:2rem 2rem;
+    border: 2px solid black;
+    margin:auto;
+}
+.container #btn-translate{
+    padding:1rem 1rem;
+    margin:1rem 8rem;
+    border: 1px solid green;
+   
+}
+.container .output{
+    height:40%;
+    width:50%;
+    padding:2rem 2rem; 
+    border:2px solid green;
+
+}
